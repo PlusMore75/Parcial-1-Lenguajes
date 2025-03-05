@@ -1,0 +1,1 @@
+fera=lambda f: f/4
